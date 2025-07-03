@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [bankdrawz.shop Portfolio](https://github.com/bankdrawz/bankdrawz.shop)
 
-- 📫 How to reach me **smtp@bankdraws.lol**
+- 📫 How to reach me **smtp@bankdrawz.lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
